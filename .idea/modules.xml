@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Grupo4_lab3_InicioSesionFirebase.iml" filepath="$PROJECT_DIR$/.idea/modules/Grupo4_lab3_InicioSesionFirebase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Grupo4_lab3_InicioSesionFirebase.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Grupo4_lab3_InicioSesionFirebase.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Grupo4_lab3_InicioSesionFirebase.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Grupo4_lab3_InicioSesionFirebase.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Grupo4_lab3_InicioSesionFirebase.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Grupo4_lab3_InicioSesionFirebase.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Grupo4_lab3_InicioSesionFirebase.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Grupo4_lab3_InicioSesionFirebase.app.unitTest.iml" />
+    </modules>
+  </component>
+</project>
